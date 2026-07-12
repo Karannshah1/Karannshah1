@@ -40,7 +40,7 @@ Systems Engineer focused on backend system architecture, high-scalability distri
 - ☕ Java 21 as primary language (Virtual Threads, Concurrency)
 - 🌱 Deep-diving into Low-Latency Transactions, Kafka, and gRPC
 - 🏆 Competitive Programming: LeetCode (Rating: 1692) | Codeforces (Rating: 1438)
-- 📫 your.email@gmail.com
+- 📫 info.karanjshah@gmail.com
 
 ---
 # ⚙️ Tech Stack
