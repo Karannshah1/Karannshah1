@@ -8,25 +8,25 @@
 
 <br>
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:info.karanjshah@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="https://www.linkedin.com/in/karanshaah/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/your-leetcode/">
+<a href="https://leetcode.com/u/karannshah/">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&label=PROFILE+VIEWS&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=Karannshah1&style=for-the-badge&label=PROFILE+VIEWS&color=8B5CF6"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B5CF6"/>
+<img src="https://img.shields.io/github/followers/Karanshah1?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B5CF6"/>
 
 </div>
 
@@ -53,7 +53,7 @@ Systems Engineer focused on backend system architecture, high-scalability distri
 
 ## 🚀 Frameworks & Technologies
 
-![Frameworks](https://skillicons.dev/icons?i=spring,kafka)
+![Frameworks](https://skillicons.dev/icons?i=spring,kafka,redis)
 
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -133,7 +133,7 @@ Systems Engineer focused on backend system architecture, high-scalability distri
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Karannshah1&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -141,7 +141,7 @@ Systems Engineer focused on backend system architecture, high-scalability distri
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karannshah1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 </div>
 
@@ -149,7 +149,7 @@ Systems Engineer focused on backend system architecture, high-scalability distri
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karannshah1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 
@@ -157,13 +157,13 @@ Systems Engineer focused on backend system architecture, high-scalability distri
 
 # 📊 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Karannshah1&theme=tokyo-night)
 
 ---
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Karannshah1/Karannshah1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
 ---
