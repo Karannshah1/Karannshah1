@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm <b>Karan Shah</b>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24&text=Systems%20Engineer&fontColor=ffffff&fontSize=58&fontAlignY=48&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24&text=Software%20Engineer&fontColor=ffffff&fontSize=58&fontAlignY=48&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=1200&color=8B5CF6&center=true&vCenter=true&width=950&lines=Java+%7C+Virtual+Threads;Distributed+Systems+%7C+Microservices;Kafka+%7C+gRPC+%7C+PostGIS;Clean+Architecture+%7C+SOLID;Open+to+Software+Development+Engineer+Roles)](https://git.io/typing-svg)
 
